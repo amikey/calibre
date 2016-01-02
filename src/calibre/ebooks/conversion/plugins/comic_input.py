@@ -261,4 +261,3 @@ class ComicInput(InputFormatPlugin):
                 f.write(wrapper.encode('utf-8'))
             wrappers.append(page)
         return wrappers
-
